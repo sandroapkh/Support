@@ -1,13 +1,13 @@
 ﻿using ItSupport.Data;
 using ItSupport.Entites;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ItSupport.Controllers
 {
-	[ApiController]
-	[Route("api/[controller]")]
-	public class UsersController : ControllerBase
+	[Authorize]
+	public class UsersController : BaseApiController
 	{
 		private readonly DataContext _dataContext;
 		public UsersController(DataContext dataContext)
