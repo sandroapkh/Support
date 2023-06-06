@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ItSupport.Controllers
 {
-	[Authorize]
+	//[Authorize]
 	public class UsersController : BaseApiController
 	{
 		private readonly DataContext _dataContext;

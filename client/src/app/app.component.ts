@@ -11,6 +11,7 @@ export class AppComponent implements OnInit{
   title = 'My-App'
   users: any;
 
+  model: any;
   constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
@@ -18,7 +19,7 @@ export class AppComponent implements OnInit{
       next: response => this.users = response,
       error: error => console.log(error),
       complete: () => console.log("Request has Completed")
-    })
+    })    
   }
-  
+ 
 }
