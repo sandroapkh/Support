@@ -260,3 +260,4 @@ C:\Users\sapkhaidze\Desktop\ItSupport\ItSupportApp\ItSupport\obj\Debug\net6.0\re
 C:\Users\sapkhaidze\Desktop\ItSupport\ItSupportApp\ItSupport\obj\Debug\net6.0\ItSupport.pdb
 C:\Users\sapkhaidze\Desktop\ItSupport\ItSupportApp\ItSupport\obj\Debug\net6.0\ItSupport.genruntimeconfig.cache
 C:\Users\sapkhaidze\Desktop\ItSupport\ItSupportApp\ItSupport\obj\Debug\net6.0\ref\ItSupport.dll
+C:\Users\SA\Desktop\It Support\ItSupportApp\ItSupport\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

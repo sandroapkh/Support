@@ -11,6 +11,8 @@ namespace ItSupport.Entites
         public byte[]? PasswordHash { get; set; }
 		[Required]
   		public byte[]? PasswordSalt { get; set; }
+        [Required]
+        public City City { get; set; }
 
     }
 }

@@ -3772,19 +3772,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sapkhaidze\\.nuget\\packages\\": {}
+    "C:\\Users\\SA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sapkhaidze\\Desktop\\ItSupport\\ItSupportApp\\ItSupport\\ItSupport.csproj",
+      "projectUniqueName": "C:\\Users\\SA\\Desktop\\It Support\\ItSupportApp\\ItSupport\\ItSupport.csproj",
       "projectName": "ItSupport",
-      "projectPath": "C:\\Users\\sapkhaidze\\Desktop\\ItSupport\\ItSupportApp\\ItSupport\\ItSupport.csproj",
-      "packagesPath": "C:\\Users\\sapkhaidze\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sapkhaidze\\Desktop\\ItSupport\\ItSupportApp\\ItSupport\\obj\\",
+      "projectPath": "C:\\Users\\SA\\Desktop\\It Support\\ItSupportApp\\ItSupport\\ItSupport.csproj",
+      "packagesPath": "C:\\Users\\SA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SA\\Desktop\\It Support\\ItSupportApp\\ItSupport\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sapkhaidze\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3792,7 +3792,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3857,7 +3856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -23,7 +23,7 @@ namespace ItSupport.Controllers
 		}
 
 		[HttpGet("{id}")]
-		public async Task<ActionResult<AppUser>> GetUser(int id) 
+		public async Task<ActionResult<AppUser>> GetUser(int id)
 		{
 			return await _dataContext.Users.FindAsync(id);
 		}

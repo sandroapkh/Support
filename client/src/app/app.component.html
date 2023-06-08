@@ -1,1 +1,7 @@
-<app-login></app-login>
+<ng-container *ngIf="accountService.currentUser$ | async">
+    <app-home></app-home>
+</ng-container>
+
+<ng-container *ngIf="!(accountService.currentUser$ | async)">
+    <app-login></app-login>
+</ng-container>
